@@ -1,6 +1,6 @@
 {
-  "name": "随便",
-  "description": "随便",
+  "name": "king",
+  "description": "vfty76",
   "keywords": [
     "随便"
   ],
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/用户名/仓库名",
-  "repository": "https://github.com/用户名/仓库名",
+  "website": "https://github.com/kinglive564/liveng",
+  "repository": "https://github.com/king564/liveng",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
