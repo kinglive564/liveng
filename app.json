@@ -22,7 +22,7 @@
     }
   },
   "website": "https://github.com/kinglive564/liveng",
-  "repository": "https://github.com/king564/liveng",
+  "repository": "https://github.com/kinglive564/liveng",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
